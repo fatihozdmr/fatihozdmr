@@ -1,9 +1,6 @@
 <h1 align="left">Hi 👋, I'm Fatih</h1>
 <h3 align="left">I am Software Test Engineer</h3>
 
-<div id="header" align="left">
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/>
-</div>
 
 <br>
 
